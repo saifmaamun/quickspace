@@ -14,3 +14,9 @@
 .discover{
     background-image: linear-gradient(white,#b6b9fa38);
 }
+
+@media (min-width: 320px) and (max-width: 700px) {
+  .hidden{
+      display: none;
+  }
+}
