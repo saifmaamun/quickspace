@@ -7,3 +7,10 @@
     color: #090F4E;
     font-family: 'Poppins', sans-serif;
 }
+
+.service-card:hover{
+    box-shadow: 0 10px 20px 10px rgb(0 0 0 / 5%), 0 50px 30px 0 rgb(0 0 0 / 2%)
+}
+.discover{
+    background-image: linear-gradient(white,#b6b9fa38);
+}
