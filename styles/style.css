@@ -25,6 +25,14 @@ ul.no-bullet{
     margin: 0;
 }
 
+.news-bg{
+    background-color: #E7F5FF;
+    border-radius:30px;
+}
+.search-box{
+    width:480px;
+}
+
 @media (min-width: 320px) and (max-width: 700px) {
 .resp{
      width: calc(25% - 50px);
