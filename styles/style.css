@@ -8,14 +8,27 @@
     font-family: 'Poppins', sans-serif;
 }
 
+.service-card{
+    transition: all 1s ease;
+}
 .service-card:hover{
-    box-shadow: 0 10px 20px 10px rgb(0 0 0 / 5%), 0 50px 30px 0 rgb(0 0 0 / 2%)
+    box-shadow: 0 10px 20px 10px rgb(0 0 0 / 5%), 0 50px 30px 0 rgb(0 0 0 / 2%);
+    
 }
 .discover{
     background-image: linear-gradient(white,#b6b9fa38);
 }
 
+ul.no-bullet{
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+
 @media (min-width: 320px) and (max-width: 700px) {
+.resp{
+     width: calc(25% - 50px);
+}
   .hidden{
       display: none;
   }
