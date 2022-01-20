@@ -1,11 +1,58 @@
+
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap');
+
+body{
+    font-family: 'Poppins', sans-serif;
+    color: #090F4E;
+    
+    
+}
+h1,h2,h3,h4,h5,h6{
+    line-height:2;
+}
+h1{
+    font-size: 44px;
+    font-weight:700;
+    line-height:1.6;
+}
+.fs-48{
+    font-size:48px;
+}
+h2{
+    font-size: 30px;
+    font-weight:700;
+}
+h3{
+    font-size: 24px;
+    font-weight:700;
+}
+.fw-500{
+    font-weight:500;
+}
+
+h4{
+    font-size: 18px;
+    color: #63657E;
+}
+
+h5{
+    font-size: 16px;
+    color:#63657E;
+}
+h6{
+    font-size: 14px;
+    color:#293FCC;
+}
+
+
+
 .header-style{
     background-image: linear-gradient(#3c8bd523, white);
 }
 
 .font-style{
-    font-size: 18px;
-    color: #090F4E;
-    font-family: 'Poppins', sans-serif;
+    
 }
 
 .service-card{
