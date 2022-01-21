@@ -44,6 +44,25 @@ h6{
     font-size: 14px;
     color:#293FCC;
 }
+.fs-18{
+    font-size:18px;
+    color: #0B0757;
+}
+
+
+.button{
+    background: #E5F1FF;
+    border-radius: 12px;
+    transition:all .5s ease ;
+}
+.button:hover{
+    background:#293FCC;
+    color:#FFFFFF;
+    font-size:18px;
+}
+.button:hover >h4{
+    color:#FFFFFF;
+}
 
 
 
