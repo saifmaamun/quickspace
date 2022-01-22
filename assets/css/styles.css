@@ -105,6 +105,11 @@ ul.no-bullet{
     background-color: #E7F5FF;
     border-radius:30px;
 }
+.news-img{
+    position: absolute;
+    top: -298px;
+    left: 0px;
+}
 .search-box{
     width:480px;
 }
@@ -114,6 +119,12 @@ ul.no-bullet{
      width: calc(25% - 50px);
 }
   .hidden{
+      display: none;
+  }
+}
+@media (max-width: 1440px) {
+
+  .news-img{
       display: none;
   }
 }
