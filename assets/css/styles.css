@@ -8,6 +8,7 @@ body{
     
     
 }
+
 a{
     text-decoration: none;
     color: #0B0757;
@@ -54,6 +55,9 @@ h6{
 .fs-18{
     font-size:18px;
     color: #0B0757;
+}
+.fs-20{
+    font-size:20px;
 }
 
 
@@ -113,6 +117,15 @@ ul.no-bullet{
 .search-box{
     width:480px;
 }
+
+/* progressbar */
+.consult{
+    background: #738CFD;
+}
+.design{
+    background: #FDE285;
+}
+
 
 @media (min-width: 320px) and (max-width: 700px) {
 .resp{
