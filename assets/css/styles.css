@@ -121,9 +121,35 @@ ul.no-bullet{
 /* progressbar */
 .consult{
     background: #738CFD;
+    border-radius:30px;
 }
 .design{
     background: #FDE285;
+    border-radius:30px;
+}
+
+
+/* funfacts */
+
+.hour{
+    background: #E9EDFF;
+    border-radius:20px;
+    color:#738CFD;
+}
+.client{
+    background: #FFF6DD;
+    border-radius:20px;
+    color:#FFCB4B;
+}
+.coffee{
+    background: #E6FCDE;
+    border-radius:20px;
+    color:#57B833;
+}
+.projects{
+    background: #FFF0E9;
+    border-radius:20px;
+    color:#FF8548;
 }
 
 
